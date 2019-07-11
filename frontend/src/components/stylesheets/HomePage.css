@@ -1,0 +1,37 @@
+.HomePage{
+  text-align: center;
+  min-height: 95vh;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url('../../images/office.jpg');
+  background-size: cover;
+  background-position: top;
+}
+
+.Jobly{
+  font-size: 8em;
+  color: white;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.HomePage h2{
+  color: white;
+}
+
+.login-signup-button{
+  width: 150px;
+  height: 50px;
+  color: white;
+  background-color: rgb(37, 93, 215);
+  border: 0;
+  border-radius: 30px;
+  font-size: 15px;
+}
+
+.login-signup-button:hover{
+  background-color: rgb(56, 108, 221);
+}

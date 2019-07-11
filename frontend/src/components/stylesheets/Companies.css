@@ -1,0 +1,9 @@
+.Companies{
+  text-align: center;
+  background-image: url('../../images/office.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+}

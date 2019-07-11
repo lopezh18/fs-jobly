@@ -1,0 +1,15 @@
+.searchbar-form{
+  justify-content: center;
+  padding: 15px;
+}
+
+.searchbar-input{
+  border-radius: 2%;
+  border: dotted #26282A 1px;
+  width: 45%;
+  margin-right: 5px;
+}
+
+.searchbar-input, .searchbar-submit{
+  height: 35px;
+}

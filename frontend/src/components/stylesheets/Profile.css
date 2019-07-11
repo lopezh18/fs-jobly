@@ -1,0 +1,45 @@
+.Profile{
+  text-align: center;
+  padding: 20px 10px;
+  background-image: url('../../images/office.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.Profile-header{
+  color: white;
+}
+
+.Profile-Form{
+  padding-top: 10px;
+  border: dotted rgb(171, 171, 171) 1px;
+  width: 50%;
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+}
+
+.Profile-label{
+  font-weight: bold
+}
+
+.Profile-input{
+  width: 70%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.Profile-input, .Profile-username, .Profile-label, .Profile-btn{
+  margin-left: 10px;
+}
+
+
+.btn{
+  width: 150px;
+}
+.Profile-btn{
+  margin-bottom: 10px;
+}

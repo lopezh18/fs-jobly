@@ -1,0 +1,52 @@
+.LoginForm-container {
+  display: flex; 
+  text-align: center; 
+  justify-content: center;
+  height: 92vh;
+  align-content: center;
+  background-image: url('../../images/office.jpg');
+  background-size: cover;
+  background-position: top;
+}
+
+.LoginForm{
+  margin-top:auto;
+  margin-bottom: auto;
+}
+
+.login-signup-form{
+  text-align:center;
+}
+
+.btn-primary {
+  background-color: #26282A;
+  border-color: #26282A;
+}
+
+.btn-primary .active {
+  background-color: rgb(37, 93, 215);
+}
+
+.LoginForm-btn {
+  width: 15vh;
+}
+
+.LoginForm-input {
+  margin: 10px;
+}
+
+.LoginForm-form {
+  width: 80vh;
+  min-height: 30vh;
+  border: dotted #26282A 1pt;
+  margin: 0 auto;
+  padding: 5vh 10vh;
+  background-color: white;
+  opacity: .85;
+}
+
+.LoginForm-button-toggle {
+  width: 80vh;
+  margin: auto;
+  text-align:left;
+}
